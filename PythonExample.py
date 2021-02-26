@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-#!/bin/bash
 #SBATCH --time=168:00:00
 #SBATCH --nodes=1
 #SBATCH --mem=24000
