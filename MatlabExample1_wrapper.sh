@@ -12,7 +12,7 @@
 # works. 
 #
 # to run this on a compute node:
-# > sbatch /path/to/MatlabExample1_MonteCarloSimulation.m
+# > sbatch /path/to/MatlabExample1_wrapper.sh
 #
 # load the matlab module
 module load matlab
