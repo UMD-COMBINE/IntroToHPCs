@@ -22,5 +22,5 @@ This repository contains all the materials for a peer to peer tutorial on high p
 
 **Open Q and A session till 14:30**
 
-## Example code files: 
+### Example code files: 
 
