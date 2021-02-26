@@ -42,3 +42,14 @@ MatlabExample4_Arraywrapper.sh - *Example of an Array job which is an optimal wa
 PythonExample.py - *Example Python script with SLURM options that run as is without a wrapper*
 
 RExample1.R - *Example R script with SLURM options that run as is without a wrapper*
+
+freesurfer_array_job_example.sh - *Another example of an array job using free surfer (structural MRI software)*
+
+_______________________
+### Extra resources: 
+
+SuperComputingwSLURM_MethodsSeminarPresentation_20190301.pdf - *Another presentation I did on UMD HPCs that has a lot more details about the different slurm commands*
+
+IntroductionToSupercomputing_BHG2019.pdf - *A more general purpose presentation on HPCs that discusses the syntax of other job scheduling software I did for brainhack: https://github.com/brainhackdc/Supercomputing_tutorial*
+
+
