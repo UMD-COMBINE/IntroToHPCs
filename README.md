@@ -8,7 +8,7 @@ This repository contains all the materials for a peer to peer tutorial on high p
 
 **Presentation 1** (~10 min): *Introduction to Super Computers by Daniel Callow* - SD1_IntroToHPCs.pdf
 
-**Breakout session 1** (~10 min): *Small group discussions about what sort of projects would benefit from super computing*
+**Breakout session 1** (~5 min): *Small group discussions about what sort of projects would benefit from super computing*
 
 **Presentation 2** (~10 min): *Basics of parallelization by Dushyanthi Karunathilake* - SD2_BasicsOfParallelization.pdf
 
