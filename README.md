@@ -24,11 +24,18 @@ This repository contains all the materials for a peer to peer tutorial on high p
 
 ### Example code files: 
 
-MatlabExample1_MonteCarloSimulation.m - Matlab Monte Carlo simulation example discussed in SD4_Presentations4-5.pdf
-MatlabExample1_wrapper.sh - Bash wrapper for Matlab Monte Carlo simulation example discussed in SD4_Presentations4-5.pdf
-MatlabExample2_GeneralMatlab_wrapper.sh - A more general purpose wrapper that will run any standalone matlab script
-MatlabExample3_FunctionUsingInputs.m - A Matlab function that requires input variables
-MatlabExample3_wrapper.sh - Bash wrapper for matlab function that requires input
-MatlabExample4_Arraywrapper.sh - Example of an Array job which is an optimal way of parallelizing data processing (for things like parameter tuning)
-PythonExample.py - Example Python script with SLURM options that run as is without a wrapper
-RExample1.R - Example R script with SLURM options that run as is without a wrapper
+MatlabExample1_MonteCarloSimulation.m - *Matlab Monte Carlo simulation example discussed in SD4_Presentations4-5.pdf*
+
+MatlabExample1_wrapper.sh - *Bash wrapper for Matlab Monte Carlo simulation example discussed in SD4_Presentations4-5.pdf*
+
+MatlabExample2_GeneralMatlab_wrapper.sh - *A more general purpose wrapper that will run any standalone matlab script*
+
+MatlabExample3_FunctionUsingInputs.m - *A Matlab function that requires input variables*
+
+MatlabExample3_wrapper.sh - *Bash wrapper for matlab function that requires input*
+
+MatlabExample4_Arraywrapper.sh - *Example of an Array job which is an optimal way of parallelizing data processing (for things like parameter tuning)*
+
+PythonExample.py - *Example Python script with SLURM options that run as is without a wrapper*
+
+RExample1.R - *Example R script with SLURM options that run as is without a wrapper*
